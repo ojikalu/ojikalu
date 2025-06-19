@@ -19,9 +19,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies -->
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ojikalu\&theme=radical)](https://github.com/ojikalu)
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=ojikalu\&theme=radical)](https://github.com/ojikalu) -->
 
 ---
 
