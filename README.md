@@ -1,6 +1,6 @@
 # Hey, I'm Oji Kalu! 👋
 
-## Backend Developer | Software Engineer | Wordpress Developer | Tech Enthusiast 🚀
+## Full-Stack Developer | Software Engineer | Wordpress Developer | Tech Enthusiast
 
 [![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/ojikalu)
 [![Profile Views](https://komarev.com/ghpvc/?username=ojikalu\&style=for-the-badge\&color=blue)](https://github.com/ojikalu)
